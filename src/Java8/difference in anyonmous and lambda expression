@@ -1,0 +1,15 @@
+Anonymous Inner Class:
+
+When you need to override multiple methods.
+
+When working with abstract/concrete classes.
+
+Example: GUI event listeners in Swing.
+
+Lambda Expression:
+
+When working with functional interfaces (e.g., Runnable, Comparator, Predicate).
+
+For cleaner, more readable code.
+
+Example: Stream API operations.
